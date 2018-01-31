@@ -1,6 +1,6 @@
 # Functional Safety of a Lane Assistance System
 
-A safety case collection of documents for a lane assistance system.
+A safety case collection of documents for a lane assistance system that ensures comliance with the ISO 26262 standard on "Road vehicles – Functional safety".
 
 Here is the [rubric](https://review.udacity.com/#!/rubrics/1043/view) for the project.
 
