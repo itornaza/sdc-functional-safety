@@ -20,15 +20,15 @@ When the vehicle approaches the lane boundary, the Lane Keeping Assistance funct
 
 The `root` directory contains the safety case documents in pdf format:
 
-* 01_SafetyPlan_LaneAssistance.pdf
+* [01_SafetyPlan_LaneAssistance.pdf](https://github.com/itornaza/sdc-functional-safety/blob/master/01_SafetyPlan_LaneAssistance.pdf)
 
-* 02_HazardAnalysisAndRiskAssessment.pdf
+* [02_HazardAnalysisAndRiskAssessment.pdf](https://github.com/itornaza/sdc-functional-safety/blob/master/02_HazardAnalysisAndRiskAssessment.numbers-Hazard%20Analysis%20and%20Risk%20Assess.pdf)
 
-* 03_FunctionalSafetyConcept_LaneAssistance.pdf
+* [03_FunctionalSafetyConcept_LaneAssistance.pdf](https://github.com/itornaza/sdc-functional-safety/blob/master/03_FunctionalSafetyConcept_LaneAssistance.pdf)
 
-* 04_TechnicalSafetyConcept_LaneAssistance.pdf
+* [04_TechnicalSafetyConcept_LaneAssistance.pdf](https://github.com/itornaza/sdc-functional-safety/blob/master/04_TechnicalSafetyConcept_LaneAssistance.pdf)
 
-* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf
+* [05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf](https://github.com/itornaza/sdc-functional-safety/blob/master/05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf)
 
 The `Pages` directory contains the safety case documents in apple pages and numbers formats for development:
 
